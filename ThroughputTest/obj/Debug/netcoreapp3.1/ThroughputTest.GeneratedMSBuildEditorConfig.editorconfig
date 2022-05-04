@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ThroughputTest
+build_property.ProjectDir = C:\Users\bryan\Downloads\azure-cosmos-db\03\demos\ThroughputTest\
